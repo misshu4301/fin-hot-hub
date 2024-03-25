@@ -8,6 +8,7 @@ from requests import Response
 import util
 from eastmoney import EastMoney
 from xueqiu import XueQiu
+from xhs import XHS
 from util import logger
 
 
@@ -23,7 +24,6 @@ def save_raw_response(resp, filename: str):
         util.write_text(file, content)
 
 
-
 def run():
     # 获取数据
     # 热门话题
@@ -32,6 +32,9 @@ def run():
 
     hot_topics, resp = XueQiu.get_hot_topic()
     save_raw_response(hot_topics, 'xueqiu-hot-topic')
+
+    hot_searches, resp = XHS.get_hot_search()
+    save_raw_response(hot_searches, 'xhs-hot-search')
 
 
 if __name__ == "__main__":
