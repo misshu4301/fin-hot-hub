@@ -9,7 +9,8 @@ from urllib.parse import quote
 from util import logger
 
 HOT_SEARCH_URL = 'https://www.xiaohongshu.com/fe_api/burdock/v3/user/hotlist'
-HOT_DETAIL_URL = 'https://www.xiaohongshu.com/search_result?keyword={0}'
+HOT_DETAIL_URL = 'https://www.xiaohongshu.com/search_result?keyword={0}&type=51'
+
 HEADERS = {
     'Host': 'www.xiaohongshu.com',
     'X-Sign': 'X3a39e2e09a99a049bc1fe186f033953e',
