@@ -9,6 +9,7 @@ import util
 from eastmoney import EastMoney
 from xueqiu import XueQiu
 from xhs import XHS
+from toutiao import Toutiao
 from util import logger
 
 
@@ -35,6 +36,10 @@ def run():
 
     hot_searches, resp = XHS.get_hot_search()
     save_raw_response(hot_searches, 'xhs-hot-search')
+
+    hot_boards, resp = Toutiao.get_hot_search()
+    for board, hot_searches in hot_boards.items():
+        save_raw_response(hot_searches, f'toutiao-hot-{board}')
 
 
 if __name__ == "__main__":
