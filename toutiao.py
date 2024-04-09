@@ -70,7 +70,7 @@ class Toutiao:
                         if "hot_board_items" not in board_data:
                             continue
                         hot_board_items = board_data.get("hot_board_items")
-                        item_list = [[{'title': board_item.get("title"), 'url': board_item.get("url")} for board_item in hot_board_items]]
+                        item_list = [{'title': board_item.get("title"), 'url': board_item.get("url")} for board_item in hot_board_items]
                         hot_map[board_category] = item_list
                     return hot_map, response
                 return None, response
