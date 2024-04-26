@@ -11,6 +11,7 @@ from xueqiu import XueQiu
 from xhs import XHS
 from toutiao import Toutiao
 from weibo import Weibo
+from douyin import Douyin
 from util import logger
 
 
@@ -30,7 +31,10 @@ def run():
     # 获取数据
     # 热门话题
     hot_searches, resp = Weibo.get_hot_search()
-    save_raw_response(hot_searches, 'weibo-hot-topic')
+    save_raw_response(hot_searches, 'weibo-hot-search')
+
+    hot_searches, resp = Douyin.get_hot_search()
+    save_raw_response(hot_searches, 'douyin-hot-search')
 
     hot_topics, resp = EastMoney.get_hot_topic()
     save_raw_response(hot_topics, 'eastmoney-hot-topic')
