@@ -1,5 +1,6 @@
 import contextlib
-
+import traceback
+import re
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -30,7 +31,7 @@ def request_session():
         session.close()
 
 
-def _get_hot_item_flag(url):
+def _get_item_flag(url):
     if url.startswith('https://simg.s.weibo.com/moter/flags/1_0.png'):
         return '新'
     if url.startswith('https://simg.s.weibo.com/moter/flags/2_0.png'):
@@ -38,6 +39,17 @@ def _get_hot_item_flag(url):
     if url.startswith('https://simg.s.weibo.com/moter/flags/32768_0.png'):
         return '暖'
     return ''
+
+
+def _get_item_hot_value(desc_extra):
+    try:
+        if ' ' in str(desc_extra):
+            desc_flag, hot_value = desc_extra.split(' ')
+            return int(hot_value), desc_flag
+        else:
+            return int(desc_extra), ''
+    except:
+        return None, ''
 
 
 class Weibo:
@@ -49,7 +61,6 @@ class Weibo:
         """
         try:
             with request_session() as s:
-                hot_items = []
                 payload = {
                     "containerid": "106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot",
                     "extparam": "filter_type%3Drealtimehot%26mi_cid%3D100103%26pos%3D0_0%26c_type%3D30%26display_time%3D1550505541",
@@ -68,7 +79,9 @@ class Weibo:
                         item_list = [{
                             'title': item_topic.get("desc", ""),
                             'url': item_topic.get("scheme", ""),
-                            'flag':_get_hot_item_flag(item_topic.get("icon", "")),
+                            'flag': _get_item_flag(item_topic.get("icon", "")),
+                            'hot_value': _get_item_hot_value(item_topic.get("desc_extr", ""))[0],
+                            'flag_ext':  _get_item_hot_value(item_topic.get("desc_extr", ""))[1],
                             'extra': item_topic.get("desc_extr", "")
                         } for item_topic in hot_items_group if HOT_SEARCH_ITEM_SEQ_PREFIX in item_topic.get("pic", "")]
                         return item_list, response
