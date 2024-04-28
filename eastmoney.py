@@ -1,5 +1,7 @@
 import contextlib
 import json
+import datetime
+import traceback
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -35,6 +37,22 @@ def request_session():
         session.close()
 
 
+def _convert_to_timestamp(date_time_str):
+    try:
+        # 定义日期时间字符串的格式
+        datetime_format = "%Y-%m-%dT%H:%M:%S"
+
+        # 将字符串转换为datetime对象
+        date_time_obj = datetime.datetime.strptime(date_time_str, datetime_format)
+
+        # 转换为自Unix纪元以来的整数秒数
+        timestamp = int(date_time_obj.timestamp())
+
+        return timestamp
+    except:
+        return None
+
+
 class EastMoney:
 
     @staticmethod
@@ -48,9 +66,15 @@ class EastMoney:
                 raw_data = json.loads(response.text)
                 if 'rc' in raw_data and raw_data.get('rc') == 1:
                     topic_list = raw_data.get('re')
-                    item_list = [
-                        {'title': item_topic.get("name"), 'url': HOT_TOPIC_DETAIL_URL.format(item_topic.get("topicid"))}
-                        for item_topic in topic_list]
+                    item_list = [{
+                        'title': item_topic.get("name"),
+                        'url': HOT_TOPIC_DETAIL_URL.format(item_topic.get("topicid")),
+                        'hot_value': item_topic.get('clickCount', None),
+                        'view_count': item_topic.get('clickCount', None),
+                        'participant_count': item_topic.get('participantCount', ''),
+                        'event_time': _convert_to_timestamp(item_topic.get('mTime', '')),
+                        'extra': item_topic.get("summary", "")
+                    } for item_topic in topic_list]
                     return item_list, response
                 return None, response
         except:

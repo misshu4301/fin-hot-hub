@@ -37,6 +37,20 @@ def request_session():
         session.close()
 
 
+def _convert_text_to_number(text):
+    try:
+        text = text.replace('阅读', '')
+        if '万' in text:
+            number = float(text[:-1]) * 10000
+        elif '千' in text:
+            number = float(text[:-1]) * 1000
+        else:
+            number = float(text)
+        return str(int(number))
+    except:
+        return ""
+
+
 class XueQiu:
 
     @staticmethod
@@ -50,9 +64,11 @@ class XueQiu:
                 raw_data = json.loads(response.text)
                 if 'success' in raw_data and raw_data.get('success'):
                     topic_list = raw_data.get('data')
-                    item_list = [
-                        {'title': item_topic.get("title"), 'url': item_topic.get("url")}
-                        for item_topic in topic_list]
+                    item_list = [{
+                        'title': item_topic.get("title"),
+                        'url': item_topic.get("url"),
+                        'hot_value': _convert_text_to_number(item_topic.get('reason'))
+                    } for item_topic in topic_list]
                     return item_list, response
                 return None, response
         except:
