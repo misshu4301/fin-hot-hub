@@ -5,7 +5,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from util import logger
+from util import logger, convert_chinese_to_arabic
 
 HOT_TOPIC_SEARCH_URL = 'https://xueqiu.com/query/v1/hot_event/tag.json'
 
@@ -38,17 +38,8 @@ def request_session():
 
 
 def _convert_text_to_number(text):
-    try:
-        text = text.replace('阅读', '')
-        if '万' in text:
-            number = float(text[:-1]) * 10000
-        elif '千' in text:
-            number = float(text[:-1]) * 1000
-        else:
-            number = float(text)
-        return str(int(number))
-    except:
-        return ""
+    text = text.replace('阅读', '')
+    return convert_chinese_to_arabic(text)
 
 
 class XueQiu:
@@ -67,7 +58,7 @@ class XueQiu:
                     item_list = [{
                         'title': item_topic.get("title"),
                         'url': item_topic.get("url"),
-                        'hot_value': _convert_text_to_number(item_topic.get('reason'))
+                        'view_count': _convert_text_to_number(item_topic.get('reason'))
                     } for item_topic in topic_list]
                     return item_list, response
                 return None, response

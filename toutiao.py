@@ -9,7 +9,7 @@ from urllib.parse import quote
 from util import logger
 
 HOT_SEARCH_URL = 'https://api.toutiaoapi.com/api/feed/hotboard_light/v1/'
-HOT_DETAIL_URL = 'https://www.xiaohongshu.com/search_result?keyword={0}&type=51'
+HOT_DETAIL_URL = 'https://api.toutiaoapi.com/api/trending/topic/{0}/?rank=1'
 
 QUERIES = {
     'category': 'hotboard_light',
@@ -40,8 +40,32 @@ def request_session():
         session.close()
 
 
-class Toutiao:
+def _get_item_flag(label_type):
+    # hot/new/participant
+    if label_type == 'hot':
+        return '热'
+    if label_type == 'new':
+        return '新'
+    return ''
 
+
+def _get_read_data(http_session, id_str, hot_read_cache):
+    try:
+        if id_str in hot_read_cache:
+            return hot_read_cache.get(id_str)
+        detail_url = HOT_DETAIL_URL.format(id_str)
+        response = http_session.get(detail_url)
+        if response.status_code != 200:
+            return None, None
+        rsp_data = json.loads(response.text)
+        read_data = rsp_data.get('read_count', None), rsp_data.get('talk_count', None)
+        hot_read_cache[id_str] = read_data
+        return read_data
+    except:
+        return None, None
+
+
+class Toutiao:
     board_category_list = ["normal", "health", "technology", "finance", "international"]
 
     @staticmethod
@@ -54,6 +78,7 @@ class Toutiao:
                     return None, response
                 rsp_data = json.loads(response.text)
                 hot_map = {}
+                read_data_cache = {}
                 if 'message' in rsp_data and rsp_data.get('message') == 'success':
                     hot_list = rsp_data.get('data')
                     for hot_item in hot_list:
@@ -70,7 +95,21 @@ class Toutiao:
                         if "hot_board_items" not in board_data:
                             continue
                         hot_board_items = board_data.get("hot_board_items")
-                        item_list = [{'title': board_item.get("title"), 'url': board_item.get("url")} for board_item in hot_board_items]
+                        item_list = []
+                        for board_item in hot_board_items:
+                            item = {'title': board_item.get("title"),
+                                    'url': board_item.get("url"),
+                                    'flag': _get_item_flag(board_item.get("title_label_type", "")),
+                                    'flag_ext': board_item.get("title_label_type", ""),
+                                    'extra': board_item.get("title_label_desc", ""),
+                                    }
+                            read_data, talk_count = _get_read_data(session, board_item.get("id_str", ""),
+                                                                   read_data_cache)
+                            if read_data:
+                                item['view_count'] = read_data
+                            if talk_count:
+                                item['talk_count'] = talk_count
+                            item_list.append(item)
                         hot_map[board_category] = item_list
                     return hot_map, response
                 return None, response

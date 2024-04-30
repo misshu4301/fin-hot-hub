@@ -69,9 +69,8 @@ class EastMoney:
                     item_list = [{
                         'title': item_topic.get("name"),
                         'url': HOT_TOPIC_DETAIL_URL.format(item_topic.get("topicid")),
-                        'hot_value': item_topic.get('clickCount', None),
                         'view_count': item_topic.get('clickCount', None),
-                        'participant_count': item_topic.get('participantCount', ''),
+                        'talk_count': item_topic.get('participantCount', ''),
                         'event_time': _convert_to_timestamp(item_topic.get('mTime', '')),
                         'extra': item_topic.get("summary", "")
                     } for item_topic in topic_list]
