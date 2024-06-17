@@ -12,6 +12,7 @@ from xhs import XHS
 from toutiao import Toutiao
 from weibo import Weibo
 from douyin import Douyin
+from baidu import Baidu
 from util import logger
 
 
@@ -48,6 +49,9 @@ def run():
     hot_boards, resp = Toutiao.get_hot_search()
     for board, hot_searches in hot_boards.items():
         save_raw_response(hot_searches, f'toutiao-hot-{board}')
+
+    hot_searches, resp = Baidu.get_hot_search()
+    save_raw_response(hot_searches, 'baidu-hot-search')
 
 
 if __name__ == "__main__":
