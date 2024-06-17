@@ -13,6 +13,7 @@ from toutiao import Toutiao
 from weibo import Weibo
 from douyin import Douyin
 from baidu import Baidu
+from kuaishou import KuaiShou
 from util import logger
 
 
@@ -52,6 +53,9 @@ def run():
 
     hot_searches, resp = Baidu.get_hot_search()
     save_raw_response(hot_searches, 'baidu-hot-search')
+
+    hot_searches, resp = KuaiShou.get_hot_search()
+    save_raw_response(hot_searches, 'kuaishou-hot-search')
 
 
 if __name__ == "__main__":
