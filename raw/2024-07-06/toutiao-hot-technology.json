@@ -5,8 +5,8 @@
         "flag": "新",
         "flag_ext": "new",
         "extra": "新事件上榜",
-        "view_count": 190197,
-        "talk_count": 816
+        "view_count": 379885,
+        "talk_count": 1630
     },
     {
         "title": "俞敏洪请求不要攻击主播",
@@ -14,8 +14,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 601059,
-        "talk_count": 2579
+        "view_count": 648406,
+        "talk_count": 2782
     },
     {
         "title": "传多益网络不满裁决或关闭成都公司",
@@ -23,26 +23,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 174448,
-        "talk_count": 748
-    },
-    {
-        "title": "专家：让人工智能和人类价值观对齐",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388054658448850981%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388054658448850981",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 71279,
-        "talk_count": 305
-    },
-    {
-        "title": "世界AI大会法律科技产业对接会举行",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388128655073083429%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388128655073083429",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 9420,
-        "talk_count": 40
+        "view_count": 189199,
+        "talk_count": 812
     },
     {
         "title": "WAIC 2024：多款人形机器人同台",
@@ -50,8 +32,44 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 188495,
-        "talk_count": 808
+        "view_count": 196395,
+        "talk_count": 842
+    },
+    {
+        "title": "科大讯飞董事长谈国内外大模型差距",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227387681893120147494%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7387681893120147494",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 10053,
+        "talk_count": 43
+    },
+    {
+        "title": "通义千问开源模型下载量突破2000万",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227386435960403132453%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7386435960403132453",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 20641,
+        "talk_count": 88
+    },
+    {
+        "title": "专家：让人工智能和人类价值观对齐",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388054658448850981%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388054658448850981",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 75955,
+        "talk_count": 325
+    },
+    {
+        "title": "世界AI大会法律科技产业对接会举行",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388128655073083429%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388128655073083429",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 12407,
+        "talk_count": 53
     },
     {
         "title": "火箭设计师详解“长五”升级计划",
@@ -59,34 +77,16 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 63759,
-        "talk_count": 273
+        "view_count": 65765,
+        "talk_count": 282
     },
     {
-        "title": "光合组织：AI开启全新科学时代",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227387976715660132361%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7387976715660132361",
+        "title": "高通亮相2024世界人工智能大会",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227386874460428877836%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7386874460428877836",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 2701,
-        "talk_count": 11
-    },
-    {
-        "title": "15兆瓦重型燃气轮机在四川德阳下线",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227387898485972500531%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7387898485972500531",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 36748,
-        "talk_count": 157
-    },
-    {
-        "title": "人工智能如何“以人为本”",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227387928493323075610%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7387928493323075610",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 63986,
-        "talk_count": 274
+        "view_count": 168305,
+        "talk_count": 722
     }
 ]
