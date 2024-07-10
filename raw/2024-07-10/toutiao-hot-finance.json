@@ -5,17 +5,17 @@
         "flag": "新",
         "flag_ext": "new",
         "extra": "新事件上榜",
-        "view_count": 65030,
-        "talk_count": 279
+        "view_count": 975494,
+        "talk_count": 4186
     },
     {
         "title": "媒体：A股底部信号渐趋明朗",
         "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389565958798606386%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389565958798606386",
-        "flag": "新",
-        "flag_ext": "new",
-        "extra": "新事件上榜",
-        "view_count": 155789,
-        "talk_count": 668
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 270989,
+        "talk_count": 1163
     },
     {
         "title": "货币总量300万亿 为什么我们还缺钱",
@@ -23,8 +23,17 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 218419,
-        "talk_count": 937
+        "view_count": 304650,
+        "talk_count": 1307
+    },
+    {
+        "title": "证监会：划定程序化交易监控红线",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389946116424581171%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389946116424581171",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 86894,
+        "talk_count": 372
     },
     {
         "title": "媒体：房地产市场在调整中温和复苏",
@@ -32,62 +41,8 @@
         "flag": "新",
         "flag_ext": "new",
         "extra": "新事件上榜",
-        "view_count": 73483,
-        "talk_count": 315
-    },
-    {
-        "title": "证监会：划定程序化交易监控红线",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389946116424581171%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389946116424581171",
-        "flag": "新",
-        "flag_ext": "new",
-        "extra": "新事件上榜",
-        "view_count": 48526,
-        "talk_count": 208
-    },
-    {
-        "title": "北大教授反对提高个税起征点",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389864302234664997%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389864302234664997",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 138097,
-        "talk_count": 592
-    },
-    {
-        "title": "国家统计局：6月份CPI同比继续上涨",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227386623794418532388%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7386623794418532388",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 118112,
-        "talk_count": 506
-    },
-    {
-        "title": "券商：市场回调或接近尾声",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389893588563558450%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389893588563558450",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 429053,
-        "talk_count": 1841
-    },
-    {
-        "title": "人民币占俄外汇市场份额近100%",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388477665589903369%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388477665589903369",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 150308,
-        "talk_count": 645
-    },
-    {
-        "title": "6月CPI同比上涨0.2%",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389815382900477466%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389815382900477466",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 260891,
-        "talk_count": 1119
+        "view_count": 103660,
+        "talk_count": 444
     },
     {
         "title": "上汽集团：陈虹辞去董事长等职务",
@@ -95,17 +50,44 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 56142,
-        "talk_count": 240
+        "view_count": 85219,
+        "talk_count": 365
     },
     {
-        "title": "我国交通运输设备更新潜力大",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389398515446890522%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389398515446890522",
+        "title": "北大教授反对提高个税起征点",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389864302234664997%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389864302234664997",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 35952,
-        "talk_count": 154
+        "view_count": 169308,
+        "talk_count": 726
+    },
+    {
+        "title": "券商：市场回调或接近尾声",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389893588563558450%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389893588563558450",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 505292,
+        "talk_count": 2168
+    },
+    {
+        "title": "人民币占俄外汇市场份额近100%",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388477665589903369%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388477665589903369",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 174191,
+        "talk_count": 747
+    },
+    {
+        "title": "国家统计局：6月份CPI同比继续上涨",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227386623794418532388%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7386623794418532388",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 138932,
+        "talk_count": 596
     },
     {
         "title": "去年青岛单位就业人员平均工资公布",
@@ -113,26 +95,26 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 119491,
-        "talk_count": 512
+        "view_count": 139627,
+        "talk_count": 599
     },
     {
-        "title": "花湖国际机场国际货运航线增至22条",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389675514450985001%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389675514450985001",
+        "title": "我国交通运输设备更新潜力大",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389398515446890522%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389398515446890522",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 93320,
-        "talk_count": 400
+        "view_count": 46892,
+        "talk_count": 201
     },
     {
-        "title": "三大指数集体收跌 无人驾驶概念爆发",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389900867886911026%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389900867886911026",
+        "title": "6月CPI同比上涨0.2%",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389815382900477466%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389815382900477466",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 55645,
-        "talk_count": 238
+        "view_count": 286092,
+        "talk_count": 1227
     },
     {
         "title": "广汇能源预计上半年净利超13.6亿元",
@@ -140,17 +122,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 16442,
-        "talk_count": 70
-    },
-    {
-        "title": "鲍威尔国会听证：通胀不是唯一风险",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389669638977798153%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389669638977798153",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 429995,
-        "talk_count": 1845
+        "view_count": 25539,
+        "talk_count": 109
     },
     {
         "title": "券商业绩大面积下滑",
@@ -158,8 +131,26 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 75830,
-        "talk_count": 325
+        "view_count": 85997,
+        "talk_count": 369
+    },
+    {
+        "title": "宁波集装箱企业订单井喷",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389908446815977511%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389908446815977511",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 9079,
+        "talk_count": 38
+    },
+    {
+        "title": "鲍威尔国会听证：通胀不是唯一风险",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227389669638977798153%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7389669638977798153",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 460081,
+        "talk_count": 1974
     },
     {
         "title": "我国综合交通网总里程超600万公里",
@@ -167,8 +158,17 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 117927,
-        "talk_count": 506
+        "view_count": 127070,
+        "talk_count": 545
+    },
+    {
+        "title": "土耳其出台政策吸引电动车投资",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227388449653928476722%22%2C%22interest_category%22%3A%22finance%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%222%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7388449653928476722",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 267377,
+        "talk_count": 1147
     },
     {
         "title": "交通运输大规模设备更新有哪些部署",
@@ -176,7 +176,7 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 94509,
-        "talk_count": 405
+        "view_count": 106700,
+        "talk_count": 457
     }
 ]
