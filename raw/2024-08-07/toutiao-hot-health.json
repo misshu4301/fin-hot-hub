@@ -2,11 +2,11 @@
     {
         "title": "世卫警告夏季新冠感染率激增",
         "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227396509066794942500%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7396509066794942500",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 922783,
-        "talk_count": 3960
+        "flag": "新",
+        "flag_ext": "new",
+        "extra": "新事件上榜",
+        "view_count": 1228165,
+        "talk_count": 5271
     },
     {
         "title": "要求医生让患者消费到7千？院方回应",
@@ -14,17 +14,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 221813,
-        "talk_count": 951
-    },
-    {
-        "title": "今年19款肺癌创新药获批",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227399630611184467979%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7399630611184467979",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 106508,
-        "talk_count": 457
+        "view_count": 293312,
+        "talk_count": 1258
     },
     {
         "title": "上海：多举措筑牢老年群体健康防线",
@@ -32,8 +23,17 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 75737,
-        "talk_count": 325
+        "view_count": 89018,
+        "talk_count": 382
+    },
+    {
+        "title": "今年19款肺癌创新药获批",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227399630611184467979%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7399630611184467979",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 122014,
+        "talk_count": 523
     },
     {
         "title": "今日立秋：养生注意防暑润燥",
@@ -41,8 +41,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 833760,
-        "talk_count": 3578
+        "view_count": 862706,
+        "talk_count": 3702
     },
     {
         "title": "立秋时节三高患者如何健康贴秋膘",
@@ -50,26 +50,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 72297,
-        "talk_count": 310
-    },
-    {
-        "title": "哪些药物容易损害牙齿健康",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227400237493880307738%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7400237493880307738",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 5228,
-        "talk_count": 22
-    },
-    {
-        "title": "被蚊子叮咬后如何有效止痒",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227398441699393093673%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7398441699393093673",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 4966,
-        "talk_count": 21
+        "view_count": 78567,
+        "talk_count": 337
     },
     {
         "title": "立秋时节要注意防“三病”",
@@ -77,8 +59,26 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 37900,
-        "talk_count": 162
+        "view_count": 41150,
+        "talk_count": 176
+    },
+    {
+        "title": "盲目锻炼或会加速衰老",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227398657509063688202%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7398657509063688202",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 51678,
+        "talk_count": 221
+    },
+    {
+        "title": "哪些药物容易损害牙齿健康",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227400237493880307738%22%2C%22interest_category%22%3A%22health%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%229%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7400237493880307738",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 7059,
+        "talk_count": 30
     },
     {
         "title": "什么是腔隙性脑梗塞",
@@ -86,7 +86,7 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 47309,
-        "talk_count": 203
+        "view_count": 48482,
+        "talk_count": 208
     }
 ]
