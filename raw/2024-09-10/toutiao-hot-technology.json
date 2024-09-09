@@ -2,11 +2,11 @@
     {
         "title": "苹果发布会",
         "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227411185163906072585%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7411185163906072585",
-        "flag": "热",
-        "flag_ext": "hot",
-        "extra": "热门事件",
-        "view_count": 3087567,
-        "talk_count": 13251
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 3398475,
+        "talk_count": 14585
     },
     {
         "title": "华为三折叠手机预约购买人数已超300万",
@@ -14,8 +14,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 1734602,
-        "talk_count": 7444
+        "view_count": 1843898,
+        "talk_count": 7913
     },
     {
         "title": "马斯克或将成首位万亿富翁",
@@ -23,8 +23,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 1590025,
-        "talk_count": 6824
+        "view_count": 1635464,
+        "talk_count": 7019
     },
     {
         "title": "AI加持的iPhone 16能否大卖",
@@ -32,8 +32,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 375442,
-        "talk_count": 1611
+        "view_count": 468655,
+        "talk_count": 2011
     },
     {
         "title": "华为手机史上最贵手机抢疯了",
@@ -41,17 +41,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 4308278,
-        "talk_count": 18490
-    },
-    {
-        "title": "微信和苹果究竟在博弈什么",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227412460341340163635%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7412460341340163635",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "view_count": 863571,
-        "talk_count": 3706
+        "view_count": 4405579,
+        "talk_count": 18908
     },
     {
         "title": "华为已建立2100余家服务店",
@@ -59,8 +50,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 106034,
-        "talk_count": 455
+        "view_count": 118931,
+        "talk_count": 510
     },
     {
         "title": "专家称苹果抽佣欠缺合理性",
@@ -68,8 +59,17 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 186373,
-        "talk_count": 799
+        "view_count": 196187,
+        "talk_count": 842
+    },
+    {
+        "title": "微信和苹果究竟在博弈什么",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227412460341340163635%22%2C%22interest_category%22%3A%22technology%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%224%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7412460341340163635",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "view_count": 875427,
+        "talk_count": 3757
     },
     {
         "title": "淘宝为何需要微信支付",
@@ -77,8 +77,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 122438,
-        "talk_count": 525
+        "view_count": 127582,
+        "talk_count": 547
     },
     {
         "title": "中国超算事业的第一缕“曙光”",
@@ -86,7 +86,7 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "view_count": 43249,
-        "talk_count": 185
+        "view_count": 45212,
+        "talk_count": 194
     }
 ]
