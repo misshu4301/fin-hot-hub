@@ -66,7 +66,8 @@ def _get_read_data(http_session, id_str, hot_read_cache):
 
 
 class Toutiao:
-    board_category_list = ["normal", "health", "technology", "finance", "international"]
+    board_category_list = ["normal", "health", "technology", "finance", "car", "international"]
+    # 旅游:tourism、股市榜:stock、篮球榜:basketball、足球榜:football、游戏榜:game
 
     @staticmethod
     def get_hot_search():
@@ -77,6 +78,7 @@ class Toutiao:
                     logger.error(f'get hot board failed! code:{response.status_code}, text:{response.text}')
                     return None, response
                 rsp_data = json.loads(response.text)
+                print(rsp_data)
                 hot_map = {}
                 read_data_cache = {}
                 if 'message' in rsp_data and rsp_data.get('message') == 'success':
@@ -113,8 +115,8 @@ class Toutiao:
                         hot_map[board_category] = item_list
                     return hot_map, response
                 return None, response
-        except:
-            logger.exception('get hot search failed')
+        except Exception as ex:
+            logger.exception(f'toutiao get hot search failed!{ex}')
             return None, None
 
 
