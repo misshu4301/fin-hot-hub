@@ -1,6 +1,7 @@
 import contextlib
 import traceback
 import re
+import time
 import requests
 import json
 from requests.adapters import HTTPAdapter
@@ -112,6 +113,7 @@ class Weibo:
                 if hot_search_data.get("ok", 0):
                     cards = hot_search_data["data"]["cards"]
                     if cards:
+                        crawl_time = int(time.time())
                         hot_items_group = cards[0]["card_group"]
                         item_list = []
                         for item_topic in hot_items_group:
@@ -123,7 +125,8 @@ class Weibo:
                                 'flag': _get_item_flag(item_topic.get("icon", "")),
                                 'hot_value': _get_item_hot_value(item_topic.get("desc_extr", ""))[0],
                                 'flag_ext':  _get_item_hot_value(item_topic.get("desc_extr", ""))[1],
-                                'extra': item_topic.get("desc_extr", "")
+                                'extra': item_topic.get("desc_extr", ""),
+                                'crawl_time': crawl_time
                             }
                             item_data.update(_get_item_detail(s, item_topic.get("scheme", "")))
                             item_list.append(item_data)

@@ -2,6 +2,7 @@ import contextlib
 import json
 
 import requests
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -56,9 +57,11 @@ class XueQiu:
                 raw_data = json.loads(response.text)
                 if 'success' in raw_data and raw_data.get('success'):
                     topic_list = raw_data.get('data')
+                    crawl_time = int(time.time())
                     item_list = [{
                         'title': item_topic.get("title"),
                         'url': item_topic.get("url"),
+                        'crawl_time': crawl_time,
                         'view_count': _convert_text_to_number(item_topic.get('reason'))
                     } for item_topic in topic_list]
                     return item_list, response

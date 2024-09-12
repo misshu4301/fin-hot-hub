@@ -1,6 +1,7 @@
 import contextlib
 import json
 
+import time
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -49,8 +50,12 @@ class XHS:
                 raw_data = json.loads(response.text)
                 if 'success' in raw_data and raw_data.get('success'):
                     hot_list = raw_data.get('data')
+                    crawl_time = int(time.time())
                     item_list = [
-                        {'title': item_topic.get("title"), 'url': HOT_DETAIL_URL.format(quote(item_topic.get("title")))}
+                        {'title': item_topic.get("title"),
+                         'url': HOT_DETAIL_URL.format(quote(item_topic.get("title"))),
+                         'crawl_time': crawl_time
+                         }
                         for item_topic in hot_list]
                     return item_list, response
                 return None, response

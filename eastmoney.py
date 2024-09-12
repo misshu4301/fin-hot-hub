@@ -1,5 +1,6 @@
 import contextlib
 import json
+import time
 import datetime
 import traceback
 
@@ -66,12 +67,14 @@ class EastMoney:
                 raw_data = json.loads(response.text)
                 if 'rc' in raw_data and raw_data.get('rc') == 1:
                     topic_list = raw_data.get('re')
+                    crawl_time = int(time.time())
                     item_list = [{
                         'title': item_topic.get("name"),
                         'url': HOT_TOPIC_DETAIL_URL.format(item_topic.get("topicid")),
                         'view_count': item_topic.get('clickCount', None),
                         'talk_count': item_topic.get('participantCount', ''),
                         'event_time': _convert_to_timestamp(item_topic.get('mTime', '')),
+                        'crawl_time': crawl_time,
                         'extra': item_topic.get("summary", "")
                     } for item_topic in topic_list]
                     return item_list, response

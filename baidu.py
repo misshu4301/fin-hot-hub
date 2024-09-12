@@ -1,5 +1,6 @@
 import contextlib
 import json
+import time
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -42,9 +43,10 @@ class Baidu:
                 response = session.get(HOT_SEARCH_URL, params=QUERIES)
                 raw_data = json.loads(response.text)
                 word_list = raw_data['data']['cards'][0]['content']
-
+                crawl_time = int(time.time())
                 word_items = [{'title': word_item.get("word"),
-                               'url': word_item.get('url')
+                               'url': word_item.get('url'),
+                               'crawl_time': crawl_time
                                } for word_item in word_list]
                 return word_items, response
         except:

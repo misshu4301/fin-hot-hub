@@ -1,5 +1,6 @@
 import contextlib
 import json
+import time
 from urllib.parse import quote
 
 import requests
@@ -64,8 +65,10 @@ class Douyin:
                 obj = json.loads(response.text)
                 if 'status_code' in obj and obj.get('status_code') == 0:
                     word_list = obj['data']['word_list']
+                    crawl_time = int(time.time())
                     word_items = [{'title': word_item.get("word"),
                                    'url': f"https://www.douyin.com/search/{quote(word_item.get('word'))}?type=general",
+                                   'crawl_time': crawl_time,
                                    'flag': _get_hot_item_flag(word_item.get("label", "")),
                                    'hot_value': word_item.get('hot_value'),
                                    'view_count': word_item.get('view_count'),

@@ -4,6 +4,7 @@ import json
 import logging
 import re
 import requests
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -45,6 +46,7 @@ class KuaiShou:
                     raw_data = json.loads(result.group(1))["defaultClient"]
                     print(result.group(1))
                     ret = []
+                    crawl_time = int(time.time())
                     for item in raw_data['$ROOT_QUERY.visionHotRank({"page":"home"})']["items"]:
                         tag_type = raw_data[item["id"]]["tagType"]
                         if tag_type == '置顶':
@@ -59,7 +61,8 @@ class KuaiShou:
                                 "url": f"https://www.kuaishou.com/short-video/{_id}",
                                 'hot_value': convert_chinese_to_arabic(hot_value),
                                 'view_count': view_count,
-                                'flag': tag_type
+                                'flag': tag_type,
+                                'crawl_time': crawl_time
                             }
                         )
                     return ret, None

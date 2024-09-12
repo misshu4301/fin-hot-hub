@@ -2,6 +2,7 @@ import contextlib
 import json
 
 import requests
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from urllib.parse import quote
@@ -78,11 +79,11 @@ class Toutiao:
                     logger.error(f'get hot board failed! code:{response.status_code}, text:{response.text}')
                     return None, response
                 rsp_data = json.loads(response.text)
-                print(rsp_data)
                 hot_map = {}
                 read_data_cache = {}
                 if 'message' in rsp_data and rsp_data.get('message') == 'success':
                     hot_list = rsp_data.get('data')
+                    crawl_time = int(time.time())
                     for hot_item in hot_list:
                         content_data = json.loads(hot_item.get('content'))
                         if "raw_data" not in content_data:
@@ -104,6 +105,7 @@ class Toutiao:
                                     'flag': _get_item_flag(board_item.get("title_label_type", "")),
                                     'flag_ext': board_item.get("title_label_type", ""),
                                     'extra': board_item.get("title_label_desc", ""),
+                                    'crawl_time': crawl_time
                                     }
                             read_data, talk_count = _get_read_data(session, board_item.get("id_str", ""),
                                                                    read_data_cache)

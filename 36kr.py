@@ -52,9 +52,12 @@ class WebSite36Kr:
                 raw_data = json.loads(response.text)
                 if 'code' in raw_data and raw_data.get('code') == 0:
                     hot_list = raw_data.get('data').get('hotRankList')
+                    crawl_time = int(time.time())
                     item_list = [
                         {'title': item_topic.get('templateMaterial').get("widgetTitle"),
-                         'url': HOT_DETAIL_URL.format(item_topic.get('itemId'))}
+                         'url': HOT_DETAIL_URL.format(item_topic.get('itemId')),
+                         'crawl_time': crawl_time,
+                         }
                         for item_topic in hot_list]
                     return item_list, response
                 return None, response
