@@ -5,9 +5,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 81933,
-        "talk_count": 351
+        "crawl_time": 1730445677,
+        "view_count": 151686,
+        "talk_count": 651
     },
     {
         "title": "酒店用挪车机器人解决车辆乱停乱放",
@@ -15,9 +15,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 71533,
-        "talk_count": 307
+        "crawl_time": 1730445677,
+        "view_count": 111274,
+        "talk_count": 477
+    },
+    {
+        "title": "11月重磅新车前瞻",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431104723488866343%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431104723488866343",
+        "flag": "新",
+        "flag_ext": "new",
+        "extra": "新事件上榜",
+        "crawl_time": 1730445677,
+        "view_count": 23873,
+        "talk_count": 102
     },
     {
         "title": "福特CEO开小米SU7在美遭抨击",
@@ -25,9 +35,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 16718,
-        "talk_count": 71
+        "crawl_time": 1730445677,
+        "view_count": 36386,
+        "talk_count": 156
     },
     {
         "title": "吉利集团：从未与欧委会单独谈判",
@@ -35,9 +45,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 1961020,
-        "talk_count": 8416
+        "crawl_time": 1730445677,
+        "view_count": 2128978,
+        "talk_count": 9137
     },
     {
         "title": "世界在建最长高速公路隧道即将贯通",
@@ -45,59 +55,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 74305,
-        "talk_count": 318
-    },
-    {
-        "title": "阿维塔10月销量10056辆",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431656102414762025%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431656102414762025",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 34589,
-        "talk_count": 148
-    },
-    {
-        "title": "小米汽车10月交付量破2万台",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432114053708860955%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432114053708860955",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 57308,
-        "talk_count": 245
-    },
-    {
-        "title": "11月重磅新车前瞻",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431104723488866343%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431104723488866343",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 8943,
-        "talk_count": 38
-    },
-    {
-        "title": "80万选保时捷还是小米",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431108287049318451%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431108287049318451",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 1692486,
-        "talk_count": 7263
-    },
-    {
-        "title": "腾势公布广州车展参展阵容",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432109955307569190%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432109955307569190",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 20634,
-        "talk_count": 88
+        "crawl_time": 1730445677,
+        "view_count": 88621,
+        "talk_count": 380
     },
     {
         "title": "别克GL8陆上公务舱探店优惠",
@@ -105,29 +65,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 6206,
-        "talk_count": 26
-    },
-    {
-        "title": "奥迪A5L换新引擎搭华为标配高速NOA",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431015970934013962%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431015970934013962",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 246453,
-        "talk_count": 1057
-    },
-    {
-        "title": "汽车的“载重量”是什么",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431740902521225226%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431740902521225226",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 610379,
-        "talk_count": 2619
+        "crawl_time": 1730445677,
+        "view_count": 15329,
+        "talk_count": 65
     },
     {
         "title": "极氪：10月交付25049辆",
@@ -135,19 +75,49 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 8184,
-        "talk_count": 35
+        "crawl_time": 1730445677,
+        "view_count": 16447,
+        "talk_count": 70
     },
     {
-        "title": "五菱“神车”是如何衰落的",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431780977121001498%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431780977121001498",
+        "title": "小米汽车10月交付量破2万台",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432114053708860955%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432114053708860955",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 4232,
-        "talk_count": 18
+        "crawl_time": 1730445677,
+        "view_count": 69575,
+        "talk_count": 298
+    },
+    {
+        "title": "阿维塔10月销量10056辆",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431656102414762025%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431656102414762025",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 46749,
+        "talk_count": 200
+    },
+    {
+        "title": "腾势公布广州车展参展阵容",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432109955307569190%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432109955307569190",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 31865,
+        "talk_count": 136
+    },
+    {
+        "title": "小米汽车智驾新版本实力究竟如何",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432150779399507483%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432150779399507483",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 8364,
+        "talk_count": 35
     },
     {
         "title": "智己汽车10月销量10001台",
@@ -155,39 +125,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 8683,
-        "talk_count": 37
-    },
-    {
-        "title": "新款别克GL8陆尊购车手册出炉",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431575860924317747%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431575860924317747",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 599667,
-        "talk_count": 2573
-    },
-    {
-        "title": "三款长城灵魂摩托车15分钟售罄",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431180516571316278%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431180516571316278",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 5857,
-        "talk_count": 25
-    },
-    {
-        "title": "李想：30万以上纯电市场仍存在空白",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431720764874817546%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431720764874817546",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 17565,
-        "talk_count": 75
+        "crawl_time": 1730445677,
+        "view_count": 14205,
+        "talk_count": 60
     },
     {
         "title": "深蓝汽车10月交付27862台",
@@ -195,8 +135,68 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1730442756,
-        "view_count": 13882,
-        "talk_count": 59
+        "crawl_time": 1730445677,
+        "view_count": 20173,
+        "talk_count": 86
+    },
+    {
+        "title": "奥迪A5L换新引擎搭华为标配高速NOA",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431015970934013962%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431015970934013962",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 266444,
+        "talk_count": 1143
+    },
+    {
+        "title": "2025款奥迪A8上市",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227432113271789882890%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7432113271789882890",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 31081,
+        "talk_count": 133
+    },
+    {
+        "title": "零跑汽车10月交付3.8万辆",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431735485481009163%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431735485481009163",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 26687,
+        "talk_count": 114
+    },
+    {
+        "title": "三款长城灵魂摩托车15分钟售罄",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431180516571316278%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431180516571316278",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 10235,
+        "talk_count": 43
+    },
+    {
+        "title": "新款别克GL8陆尊购车手册出炉",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431575860924317747%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431575860924317747",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 616208,
+        "talk_count": 2644
+    },
+    {
+        "title": "11月上市新车抢先看",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227431768238050656282%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7431768238050656282",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1730445677,
+        "view_count": 34831,
+        "talk_count": 149
     }
 ]
