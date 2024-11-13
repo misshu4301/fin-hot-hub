@@ -10,6 +10,7 @@ from urllib.parse import quote
 from util import logger
 
 HOT_SEARCH_URL = 'https://www.xiaohongshu.com/fe_api/burdock/v3/user/hotlist'
+# HOT_DETAIL_URL = 'xhsdiscover://search/result?keyword={0}'
 HOT_DETAIL_URL = 'https://www.xiaohongshu.com/search_result?keyword={0}&type=51'
 
 HEADERS = {
@@ -37,6 +38,18 @@ def request_session():
         session.close()
 
 
+def _get_item_flag(url):
+    if not url:
+        return ''
+    if url.startswith('https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png'):
+        return '热'
+    if url.startswith('https://sns-img-qc.xhscdn.com/search/trends/icon/label/new/version/1'):
+        return '新'
+    if url.startswith('https://picasso-static.xiaohongshu.com/fe-platform/4d6304d79d71bd1f68611ae09184b778ec1a6d97.png'):
+        return '独家'
+    return ''
+
+
 class XHS:
 
     @staticmethod
@@ -54,6 +67,7 @@ class XHS:
                     item_list = [
                         {'title': item_topic.get("title"),
                          'url': HOT_DETAIL_URL.format(quote(item_topic.get("title"))),
+                         'flag': _get_item_flag(item_topic.get("icon", "")),
                          'crawl_time': crawl_time
                          }
                         for item_topic in hot_list]
