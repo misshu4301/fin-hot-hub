@@ -1,23 +1,13 @@
 [
     {
-        "title": "德国大众汽车工人大罢工",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443157441233764389%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443157441233764389",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 61832,
-        "talk_count": 265
-    },
-    {
         "title": "新造车年终冲刺加速",
         "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443743825283104804%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443743825283104804",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 43766,
-        "talk_count": 187
+        "crawl_time": 1733210672,
+        "view_count": 61910,
+        "talk_count": 265
     },
     {
         "title": "丰田全新SUV测试车曝光",
@@ -25,19 +15,29 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 13262,
-        "talk_count": 56
+        "crawl_time": 1733210672,
+        "view_count": 24188,
+        "talk_count": 103
     },
     {
-        "title": "官方回应：哪吒汽车CEO张勇并未离职",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443686430389420059%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443686430389420059",
+        "title": "德国大众汽车工人大罢工",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443157441233764389%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443157441233764389",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 128932,
-        "talk_count": 553
+        "crawl_time": 1733210672,
+        "view_count": 75362,
+        "talk_count": 323
+    },
+    {
+        "title": "小米SU7 Ultra量产版功能细节曝光",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443625437429235722%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443625437429235722",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1733210672,
+        "view_count": 4307,
+        "talk_count": 18
     },
     {
         "title": "周冠宇为F1索伯车队拿到今年第一分",
@@ -45,9 +45,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 35521,
-        "talk_count": 152
+        "crawl_time": 1733210672,
+        "view_count": 45353,
+        "talk_count": 194
+    },
+    {
+        "title": "官方回应：哪吒汽车CEO张勇并未离职",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443686430389420059%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443686430389420059",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1733210672,
+        "view_count": 146580,
+        "talk_count": 629
     },
     {
         "title": "长三角多地汽车以旧换新再加码",
@@ -55,9 +65,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 24128,
-        "talk_count": 103
+        "crawl_time": 1733210672,
+        "view_count": 32158,
+        "talk_count": 138
     },
     {
         "title": "盘点前10月累计销量排名前8新车",
@@ -65,19 +75,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 251693,
-        "talk_count": 1080
-    },
-    {
-        "title": "激光雷达两大巨头三季报横评",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227442954367680118835%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7442954367680118835",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 157002,
-        "talk_count": 673
+        "crawl_time": 1733210672,
+        "view_count": 273381,
+        "talk_count": 1173
     },
     {
         "title": "奇瑞风云12月购车权益",
@@ -85,9 +85,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 14708,
-        "talk_count": 63
+        "crawl_time": 1733210672,
+        "view_count": 20425,
+        "talk_count": 87
+    },
+    {
+        "title": "比亚迪部分车型降价",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443635481403441171%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443635481403441171",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1733210672,
+        "view_count": 3153,
+        "talk_count": 13
     },
     {
         "title": "欧盟加关税松口 中国车企压力不减",
@@ -95,9 +105,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 126224,
-        "talk_count": 541
+        "crawl_time": 1733210672,
+        "view_count": 139937,
+        "talk_count": 600
+    },
+    {
+        "title": "激光雷达两大巨头三季报横评",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227442954367680118835%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7442954367680118835",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1733210672,
+        "view_count": 172433,
+        "talk_count": 740
     },
     {
         "title": "车企硬拼收官赛",
@@ -105,19 +125,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 13795,
-        "talk_count": 59
-    },
-    {
-        "title": "欧洲汽车零部件供应商年内裁员超5万",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443444022410182697%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443444022410182697",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 223473,
-        "talk_count": 959
+        "crawl_time": 1733210672,
+        "view_count": 18038,
+        "talk_count": 77
     },
     {
         "title": "奇瑞捷途1-11月累计销售超50.2万辆",
@@ -125,9 +135,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 23452,
-        "talk_count": 100
+        "crawl_time": 1733210672,
+        "view_count": 27254,
+        "talk_count": 116
     },
     {
         "title": "日产汽车回应被本田“收购”传闻",
@@ -135,9 +145,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 6435,
-        "talk_count": 27
+        "crawl_time": 1733210672,
+        "view_count": 8949,
+        "talk_count": 38
     },
     {
         "title": "东风本田发布12月限时优惠",
@@ -145,29 +155,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 30707,
-        "talk_count": 131
+        "crawl_time": 1733210672,
+        "view_count": 34088,
+        "talk_count": 146
     },
     {
-        "title": "宝马6系GT 630i M运动臻享套装到店",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227442941674533289993%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7442941674533289993",
+        "title": "欧洲汽车零部件供应商年内裁员超5万",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443444022410182697%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443444022410182697",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 2953,
-        "talk_count": 12
-    },
-    {
-        "title": "江铃福顺多功能乘用车5座版上市",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443083998869635123%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443083998869635123",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 2099,
-        "talk_count": 9
+        "crawl_time": 1733210672,
+        "view_count": 231516,
+        "talk_count": 993
     },
     {
         "title": "小米汽车新疆首店将落地乌鲁木齐",
@@ -175,28 +175,28 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 78004,
-        "talk_count": 334
+        "crawl_time": 1733210672,
+        "view_count": 83605,
+        "talk_count": 358
     },
     {
-        "title": "曝集度汽车裁员40% CFO离职",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227442667718656507931%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7442667718656507931",
+        "title": "四个维度看明年新能源车大变局",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227444005455438810661%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7444005455438810661",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 52525,
-        "talk_count": 225
+        "crawl_time": 1733210672,
+        "view_count": 2638,
+        "talk_count": 11
     },
     {
-        "title": "特斯拉5年0息购车活动继续延期",
-        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227443383808151535666%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7443383808151535666",
+        "title": "奇瑞风云A8L将于12月17日上市",
+        "url": "https://api.toutiaoapi.com/feoffline/amos_land/new/html/main/index.html?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22news_hotspot%22%2C%22entrance_hotspot%22%3A%22channel%22%2C%22first_group_id%22%3A%227444060657844227594%22%2C%22interest_category%22%3A%22car%22%2C%22location%22%3A%22hot_board%22%2C%22module_rank%22%3A%226%22%2C%22style_id%22%3A%2210230%22%7D&topic_id=7444060657844227594",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1733207644,
-        "view_count": 46935,
-        "talk_count": 201
+        "crawl_time": 1733210672,
+        "view_count": 1022,
+        "talk_count": 4
     }
 ]
