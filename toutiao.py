@@ -67,7 +67,7 @@ def _get_read_data(http_session, id_str, hot_read_cache):
 
 
 class Toutiao:
-    board_category_list = ["normal", "health", "technology", "finance", "car", "international"]
+    board_category_list = ["normal", "health", "technology", "finance", "car", "international", "basketball", "football"]
     # 旅游:tourism、股市榜:stock、篮球榜:basketball、足球榜:football、游戏榜:game
 
     @staticmethod
