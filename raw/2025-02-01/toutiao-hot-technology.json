@@ -5,9 +5,9 @@
         "flag": "热",
         "flag_ext": "hot",
         "extra": "热门事件",
-        "crawl_time": 1738348109,
-        "view_count": 26570524,
-        "talk_count": 114036
+        "crawl_time": 1738350992,
+        "view_count": 27514888,
+        "talk_count": 118089
     },
     {
         "title": "周鸿祎：DeepSeek才是真正的OpenAI",
@@ -15,9 +15,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 14216684,
-        "talk_count": 61015
+        "crawl_time": 1738350992,
+        "view_count": 14636965,
+        "talk_count": 62819
     },
     {
         "title": "美国智库总监：去偷中国工程师",
@@ -25,9 +25,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 2452944,
-        "talk_count": 10527
+        "crawl_time": 1738350992,
+        "view_count": 2578541,
+        "talk_count": 11066
     },
     {
         "title": "DeepSeek遭网络攻击烈度暴增百倍",
@@ -35,9 +35,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 6357285,
-        "talk_count": 27284
+        "crawl_time": 1738350992,
+        "view_count": 6424011,
+        "talk_count": 27570
     },
     {
         "title": "英伟达上线DeepSeek",
@@ -45,9 +45,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 4970007,
-        "talk_count": 21330
+        "crawl_time": 1738350992,
+        "view_count": 5162400,
+        "talk_count": 22156
     },
     {
         "title": "DeepSeek如何在低成本下实现高性能",
@@ -55,39 +55,9 @@
         "flag": "热",
         "flag_ext": "hot",
         "extra": "热门事件",
-        "crawl_time": 1738348109,
-        "view_count": 17629363,
-        "talk_count": 75662
-    },
-    {
-        "title": "美AI公司质疑DeepSeek使用禁运芯片",
-        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8EAI%E5%85%AC%E5%8F%B8%E8%B4%A8%E7%96%91DeepSeek%E4%BD%BF%E7%94%A8%E7%A6%81%E8%BF%90%E8%8A%AF%E7%89%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 3117336,
-        "talk_count": 13379
-    },
-    {
-        "title": "OpenAI洽谈按3400亿美元估值寻求融资",
-        "url": "https://so.toutiao.com/search?keyword=OpenAI%E6%B4%BD%E8%B0%88%E6%8C%893400%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%AF%BB%E6%B1%82%E8%9E%8D%E8%B5%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 2910842,
-        "talk_count": 12492
-    },
-    {
-        "title": "欧洲AI界：DeepSeek令人鼓舞",
-        "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E6%B4%B2AI%E7%95%8C%EF%BC%9ADeepSeek%E4%BB%A4%E4%BA%BA%E9%BC%93%E8%88%9E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "热",
-        "flag_ext": "hot",
-        "extra": "热门事件",
-        "crawl_time": 1738348109,
-        "view_count": 39567683,
-        "talk_count": 169818
+        "crawl_time": 1738350992,
+        "view_count": 18105751,
+        "talk_count": 77707
     },
     {
         "title": "百度前首席科学家解读DeepSeek",
@@ -95,8 +65,38 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738348109,
-        "view_count": 2114638,
-        "talk_count": 9075
+        "crawl_time": 1738350992,
+        "view_count": 2174949,
+        "talk_count": 9334
+    },
+    {
+        "title": "OpenAI洽谈按3400亿美元估值寻求融资",
+        "url": "https://so.toutiao.com/search?keyword=OpenAI%E6%B4%BD%E8%B0%88%E6%8C%893400%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%AF%BB%E6%B1%82%E8%9E%8D%E8%B5%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738350992,
+        "view_count": 3084178,
+        "talk_count": 13236
+    },
+    {
+        "title": "欧洲AI界：DeepSeek令人鼓舞",
+        "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E6%B4%B2AI%E7%95%8C%EF%BC%9ADeepSeek%E4%BB%A4%E4%BA%BA%E9%BC%93%E8%88%9E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "热",
+        "flag_ext": "hot",
+        "extra": "热门事件",
+        "crawl_time": 1738350992,
+        "view_count": 40805771,
+        "talk_count": 175132
+    },
+    {
+        "title": "美AI公司质疑DeepSeek使用禁运芯片",
+        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8EAI%E5%85%AC%E5%8F%B8%E8%B4%A8%E7%96%91DeepSeek%E4%BD%BF%E7%94%A8%E7%A6%81%E8%BF%90%E8%8A%AF%E7%89%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738350992,
+        "view_count": 3160618,
+        "talk_count": 13564
     }
 ]
