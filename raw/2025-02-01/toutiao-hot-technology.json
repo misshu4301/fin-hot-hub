@@ -5,19 +5,19 @@
         "flag": "热",
         "flag_ext": "hot",
         "extra": "热门事件",
-        "crawl_time": 1738343893,
-        "view_count": 24829329,
-        "talk_count": 106563
+        "crawl_time": 1738348109,
+        "view_count": 26570524,
+        "talk_count": 114036
     },
     {
         "title": "周鸿祎：DeepSeek才是真正的OpenAI",
         "url": "https://so.toutiao.com/search?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9ADeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "热",
-        "flag_ext": "hot",
-        "extra": "热门事件",
-        "crawl_time": 1738343893,
-        "view_count": 13531537,
-        "talk_count": 58075
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738348109,
+        "view_count": 14216684,
+        "talk_count": 61015
     },
     {
         "title": "美国智库总监：去偷中国工程师",
@@ -25,9 +25,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 2219454,
-        "talk_count": 9525
+        "crawl_time": 1738348109,
+        "view_count": 2452944,
+        "talk_count": 10527
     },
     {
         "title": "DeepSeek遭网络攻击烈度暴增百倍",
@@ -35,59 +35,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 6202472,
-        "talk_count": 26620
-    },
-    {
-        "title": "美AI公司质疑DeepSeek使用禁运芯片",
-        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8EAI%E5%85%AC%E5%8F%B8%E8%B4%A8%E7%96%91DeepSeek%E4%BD%BF%E7%94%A8%E7%A6%81%E8%BF%90%E8%8A%AF%E7%89%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 3031590,
-        "talk_count": 13011
-    },
-    {
-        "title": "DeepSeek如何在低成本下实现高性能",
-        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BD%8E%E6%88%90%E6%9C%AC%E4%B8%8B%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 16739197,
-        "talk_count": 71842
-    },
-    {
-        "title": "百度前首席科学家解读DeepSeek",
-        "url": "https://so.toutiao.com/search?keyword=%E7%99%BE%E5%BA%A6%E5%89%8D%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A7%A3%E8%AF%BBDeepSeek&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 2009457,
-        "talk_count": 8624
-    },
-    {
-        "title": "OpenAI洽谈按3400亿美元估值寻求融资",
-        "url": "https://so.toutiao.com/search?keyword=OpenAI%E6%B4%BD%E8%B0%88%E6%8C%893400%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%AF%BB%E6%B1%82%E8%9E%8D%E8%B5%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 2681502,
-        "talk_count": 11508
-    },
-    {
-        "title": "欧洲AI界：DeepSeek令人鼓舞",
-        "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E6%B4%B2AI%E7%95%8C%EF%BC%9ADeepSeek%E4%BB%A4%E4%BA%BA%E9%BC%93%E8%88%9E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 37282928,
-        "talk_count": 160012
+        "crawl_time": 1738348109,
+        "view_count": 6357285,
+        "talk_count": 27284
     },
     {
         "title": "英伟达上线DeepSeek",
@@ -95,8 +45,58 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1738343893,
-        "view_count": 4694282,
-        "talk_count": 20147
+        "crawl_time": 1738348109,
+        "view_count": 4970007,
+        "talk_count": 21330
+    },
+    {
+        "title": "DeepSeek如何在低成本下实现高性能",
+        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BD%8E%E6%88%90%E6%9C%AC%E4%B8%8B%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "热",
+        "flag_ext": "hot",
+        "extra": "热门事件",
+        "crawl_time": 1738348109,
+        "view_count": 17629363,
+        "talk_count": 75662
+    },
+    {
+        "title": "美AI公司质疑DeepSeek使用禁运芯片",
+        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8EAI%E5%85%AC%E5%8F%B8%E8%B4%A8%E7%96%91DeepSeek%E4%BD%BF%E7%94%A8%E7%A6%81%E8%BF%90%E8%8A%AF%E7%89%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738348109,
+        "view_count": 3117336,
+        "talk_count": 13379
+    },
+    {
+        "title": "OpenAI洽谈按3400亿美元估值寻求融资",
+        "url": "https://so.toutiao.com/search?keyword=OpenAI%E6%B4%BD%E8%B0%88%E6%8C%893400%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%AF%BB%E6%B1%82%E8%9E%8D%E8%B5%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738348109,
+        "view_count": 2910842,
+        "talk_count": 12492
+    },
+    {
+        "title": "欧洲AI界：DeepSeek令人鼓舞",
+        "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E6%B4%B2AI%E7%95%8C%EF%BC%9ADeepSeek%E4%BB%A4%E4%BA%BA%E9%BC%93%E8%88%9E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "热",
+        "flag_ext": "hot",
+        "extra": "热门事件",
+        "crawl_time": 1738348109,
+        "view_count": 39567683,
+        "talk_count": 169818
+    },
+    {
+        "title": "百度前首席科学家解读DeepSeek",
+        "url": "https://so.toutiao.com/search?keyword=%E7%99%BE%E5%BA%A6%E5%89%8D%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A7%A3%E8%AF%BBDeepSeek&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1738348109,
+        "view_count": 2114638,
+        "talk_count": 9075
     }
 ]
