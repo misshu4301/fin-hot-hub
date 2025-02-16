@@ -2,52 +2,32 @@
     {
         "title": "微信AI搜索是否呼之欲出",
         "url": "https://so.toutiao.com/search?keyword=%E5%BE%AE%E4%BF%A1AI%E6%90%9C%E7%B4%A2%E6%98%AF%E5%90%A6%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1739694313,
+        "view_count": 311377,
+        "talk_count": 1336
+    },
+    {
+        "title": "杭州六小龙席卷中国背后",
+        "url": "https://so.toutiao.com/search?keyword=%E6%9D%AD%E5%B7%9E%E5%85%AD%E5%B0%8F%E9%BE%99%E5%B8%AD%E5%8D%B7%E4%B8%AD%E5%9B%BD%E8%83%8C%E5%90%8E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "新",
         "flag_ext": "new",
         "extra": "新事件上榜",
-        "crawl_time": 1739690455,
-        "view_count": 12096,
-        "talk_count": 51
+        "crawl_time": 1739694313,
+        "view_count": 32533,
+        "talk_count": 139
     },
     {
-        "title": "美媒：杭州成“中国AI宇宙中心”",
-        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E5%AA%92%EF%BC%9A%E6%9D%AD%E5%B7%9E%E6%88%90%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BF%83%E2%80%9D&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 1464986,
-        "talk_count": 6287
-    },
-    {
-        "title": "欧洲1.5万亿入局AI竞赛",
-        "url": "https://so.toutiao.com/search?keyword=%E6%AC%A7%E6%B4%B21.5%E4%B8%87%E4%BA%BF%E5%85%A5%E5%B1%80AI%E7%AB%9E%E8%B5%9B&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 116483,
-        "talk_count": 499
-    },
-    {
-        "title": "DeepSeek带火英伟达GPU",
-        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E5%B8%A6%E7%81%AB%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "title": "车企为何扎堆接入DeepSeek",
+        "url": "https://so.toutiao.com/search?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%8E%A5%E5%85%A5DeepSeek&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "新",
         "flag_ext": "new",
         "extra": "新事件上榜",
-        "crawl_time": 1739690455,
-        "view_count": 97008,
-        "talk_count": 416
-    },
-    {
-        "title": "DeepSeek风暴席卷AI产业链",
-        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7AI%E4%BA%A7%E4%B8%9A%E9%93%BE&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 2281016,
-        "talk_count": 9789
+        "crawl_time": 1739694313,
+        "view_count": 889786,
+        "talk_count": 3818
     },
     {
         "title": "北京国企顺应新浪潮接入DeepSeek",
@@ -55,9 +35,29 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 2169087,
-        "talk_count": 9309
+        "crawl_time": 1739694313,
+        "view_count": 2726257,
+        "talk_count": 11700
+    },
+    {
+        "title": "DeepSeek风暴席卷AI产业链",
+        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7AI%E4%BA%A7%E4%B8%9A%E9%93%BE&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1739694313,
+        "view_count": 2598926,
+        "talk_count": 11154
+    },
+    {
+        "title": "DeepSeek带火英伟达GPU",
+        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E5%B8%A6%E7%81%AB%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1739694313,
+        "view_count": 120063,
+        "talk_count": 515
     },
     {
         "title": "机器人下腰比人都丝滑",
@@ -65,19 +65,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 3062568,
-        "talk_count": 13144
+        "crawl_time": 1739694313,
+        "view_count": 3158497,
+        "talk_count": 13555
     },
     {
-        "title": "车企为何扎堆接入DeepSeek",
-        "url": "https://so.toutiao.com/search?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E6%89%8E%E5%A0%86%E6%8E%A5%E5%85%A5DeepSeek&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "title": "美媒：杭州成“中国AI宇宙中心”",
+        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E5%AA%92%EF%BC%9A%E6%9D%AD%E5%B7%9E%E6%88%90%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BF%83%E2%80%9D&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 667155,
-        "talk_count": 2863
+        "crawl_time": 1739694313,
+        "view_count": 1731898,
+        "talk_count": 7433
     },
     {
         "title": "院士：AI将助力固态电池产业发展",
@@ -85,9 +85,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 358342,
-        "talk_count": 1537
+        "crawl_time": 1739694313,
+        "view_count": 394597,
+        "talk_count": 1693
     },
     {
         "title": "春晚跳舞机器人又进化升级了",
@@ -95,8 +95,8 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1739690455,
-        "view_count": 3906584,
-        "talk_count": 16766
+        "crawl_time": 1739694313,
+        "view_count": 4013216,
+        "talk_count": 17224
     }
 ]
