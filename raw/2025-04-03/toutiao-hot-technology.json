@@ -2,42 +2,12 @@
     {
         "title": "缅甸强震中的超音速破裂现象",
         "url": "https://so.toutiao.com/search?keyword=%E7%BC%85%E7%94%B8%E5%BC%BA%E9%9C%87%E4%B8%AD%E7%9A%84%E8%B6%85%E9%9F%B3%E9%80%9F%E7%A0%B4%E8%A3%82%E7%8E%B0%E8%B1%A1&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 26807,
-        "talk_count": 115
-    },
-    {
-        "title": "四月精彩天象亮相天宇",
-        "url": "https://so.toutiao.com/search?keyword=%E5%9B%9B%E6%9C%88%E7%B2%BE%E5%BD%A9%E5%A4%A9%E8%B1%A1%E4%BA%AE%E7%9B%B8%E5%A4%A9%E5%AE%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 88365,
-        "talk_count": 379
-    },
-    {
-        "title": "中国是如何打好稀土这张“牌”的",
-        "url": "https://so.toutiao.com/search?keyword=%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%93%E5%A5%BD%E7%A8%80%E5%9C%9F%E8%BF%99%E5%BC%A0%E2%80%9C%E7%89%8C%E2%80%9D%E7%9A%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 81894,
-        "talk_count": 351
-    },
-    {
-        "title": "美国《芯片法案》拨款或暂停",
-        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E5%9B%BD%E3%80%8A%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88%E3%80%8B%E6%8B%A8%E6%AC%BE%E6%88%96%E6%9A%82%E5%81%9C&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 501159,
-        "talk_count": 2150
+        "flag": "新",
+        "flag_ext": "new",
+        "extra": "新事件上榜",
+        "crawl_time": 1743690190,
+        "view_count": 403620,
+        "talk_count": 1732
     },
     {
         "title": "2分钟看广东机器人江湖名场面",
@@ -45,9 +15,39 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 44071,
-        "talk_count": 189
+        "crawl_time": 1743690190,
+        "view_count": 91965,
+        "talk_count": 394
+    },
+    {
+        "title": "四月精彩天象亮相天宇",
+        "url": "https://so.toutiao.com/search?keyword=%E5%9B%9B%E6%9C%88%E7%B2%BE%E5%BD%A9%E5%A4%A9%E8%B1%A1%E4%BA%AE%E7%9B%B8%E5%A4%A9%E5%AE%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1743690190,
+        "view_count": 178500,
+        "talk_count": 766
+    },
+    {
+        "title": "美国《芯片法案》拨款或暂停",
+        "url": "https://so.toutiao.com/search?keyword=%E7%BE%8E%E5%9B%BD%E3%80%8A%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88%E3%80%8B%E6%8B%A8%E6%AC%BE%E6%88%96%E6%9A%82%E5%81%9C&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1743690190,
+        "view_count": 564759,
+        "talk_count": 2423
+    },
+    {
+        "title": "中国是如何打好稀土这张“牌”的",
+        "url": "https://so.toutiao.com/search?keyword=%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%93%E5%A5%BD%E7%A8%80%E5%9C%9F%E8%BF%99%E5%BC%A0%E2%80%9C%E7%89%8C%E2%80%9D%E7%9A%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1743690190,
+        "view_count": 123609,
+        "talk_count": 530
     },
     {
         "title": "我国成功发射天平三号A星02星",
@@ -55,9 +55,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 298274,
-        "talk_count": 1280
+        "crawl_time": 1743690190,
+        "view_count": 330087,
+        "talk_count": 1416
     },
     {
         "title": "震级VS烈度？一招教你辨别",
@@ -65,9 +65,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 109809,
-        "talk_count": 471
+        "crawl_time": 1743690190,
+        "view_count": 132368,
+        "talk_count": 568
     },
     {
         "title": "台积电前高管：大陆或重新定义半导体",
@@ -75,9 +75,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 103712,
-        "talk_count": 445
+        "crawl_time": 1743690190,
+        "view_count": 123287,
+        "talk_count": 529
     },
     {
         "title": "我国科学家首次破译钩盲蛇基因组",
@@ -85,18 +85,18 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 116022,
-        "talk_count": 497
+        "crawl_time": 1743690190,
+        "view_count": 142749,
+        "talk_count": 612
     },
     {
-        "title": "华裔教授遭FBI搜查后下落不明",
-        "url": "https://so.toutiao.com/search?keyword=%E5%8D%8E%E8%A3%94%E6%95%99%E6%8E%88%E9%81%ADFBI%E6%90%9C%E6%9F%A5%E5%90%8E%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "title": "业内：激光雷达迎全新成长",
+        "url": "https://so.toutiao.com/search?keyword=%E4%B8%9A%E5%86%85%EF%BC%9A%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E8%BF%8E%E5%85%A8%E6%96%B0%E6%88%90%E9%95%BF&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1743687121,
-        "view_count": 54746,
-        "talk_count": 234
+        "crawl_time": 1743690190,
+        "view_count": 51557,
+        "talk_count": 221
     }
 ]
