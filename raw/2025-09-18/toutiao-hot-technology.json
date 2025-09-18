@@ -2,12 +2,12 @@
     {
         "title": "外交部回应是否终止涉英伟达订单",
         "url": "https://so.toutiao.com/search?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E7%BB%88%E6%AD%A2%E6%B6%89%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A2%E5%8D%95&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "新",
-        "flag_ext": "new",
-        "extra": "新事件上榜",
-        "crawl_time": 1758184207,
-        "view_count": 163003,
-        "talk_count": 699
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1758187483,
+        "view_count": 356400,
+        "talk_count": 1529
     },
     {
         "title": "华为徐直军时隔六年再谈芯片进展",
@@ -15,9 +15,19 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 326574,
-        "talk_count": 1401
+        "crawl_time": 1758187483,
+        "view_count": 667125,
+        "talk_count": 2863
+    },
+    {
+        "title": "DeepSeek登《Nature》封面",
+        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E7%99%BB%E3%80%8ANature%E3%80%8B%E5%B0%81%E9%9D%A2&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1758187483,
+        "view_count": 228844,
+        "talk_count": 982
     },
     {
         "title": "所有大模型都是“预制菜”吗",
@@ -25,49 +35,9 @@
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 248019,
-        "talk_count": 1064
-    },
-    {
-        "title": "DeepSeek登《Nature》封面",
-        "url": "https://so.toutiao.com/search?keyword=DeepSeek%E7%99%BB%E3%80%8ANature%E3%80%8B%E5%B0%81%E9%9D%A2&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "新",
-        "flag_ext": "new",
-        "extra": "新事件上榜",
-        "crawl_time": 1758184207,
-        "view_count": 133795,
-        "talk_count": 574
-    },
-    {
-        "title": "华为昇腾950芯片架构公布",
-        "url": "https://so.toutiao.com/search?keyword=%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE950%E8%8A%AF%E7%89%87%E6%9E%B6%E6%9E%84%E5%85%AC%E5%B8%83&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 546465,
-        "talk_count": 2345
-    },
-    {
-        "title": "iPhone 17全面测评",
-        "url": "https://so.toutiao.com/search?keyword=iPhone+17%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 615924,
-        "talk_count": 2643
-    },
-    {
-        "title": "黄仁勋回应中方进一步调查英伟达",
-        "url": "https://so.toutiao.com/search?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%96%B9%E8%BF%9B%E4%B8%80%E6%AD%A5%E8%B0%83%E6%9F%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
-        "flag": "",
-        "flag_ext": "",
-        "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 147167,
-        "talk_count": 631
+        "crawl_time": 1758187483,
+        "view_count": 433734,
+        "talk_count": 1861
     },
     {
         "title": "你期待华为昇腾系列芯片吗",
@@ -75,28 +45,58 @@
         "flag": "",
         "flag_ext": "forum",
         "extra": "热议",
-        "crawl_time": 1758184207,
-        "view_count": 284816,
-        "talk_count": 1222
+        "crawl_time": 1758187483,
+        "view_count": 549144,
+        "talk_count": 2356
     },
     {
-        "title": "小米17还没发布就被网友给玩坏了",
-        "url": "https://so.toutiao.com/search?keyword=%E5%B0%8F%E7%B1%B317%E8%BF%98%E6%B2%A1%E5%8F%91%E5%B8%83%E5%B0%B1%E8%A2%AB%E7%BD%91%E5%8F%8B%E7%BB%99%E7%8E%A9%E5%9D%8F%E4%BA%86&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "title": "王自如曝苹果新机发售旧机发热是惯例",
+        "url": "https://so.toutiao.com/search?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%9B%9D%E8%8B%B9%E6%9E%9C%E6%96%B0%E6%9C%BA%E5%8F%91%E5%94%AE%E6%97%A7%E6%9C%BA%E5%8F%91%E7%83%AD%E6%98%AF%E6%83%AF%E4%BE%8B&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "",
         "flag_ext": "",
         "extra": "",
-        "crawl_time": 1758184207,
-        "view_count": 33202,
-        "talk_count": 142
+        "crawl_time": 1758187483,
+        "view_count": 1038001,
+        "talk_count": 4454
     },
     {
-        "title": "鸿蒙系统更新后频繁重启怎么办",
-        "url": "https://so.toutiao.com/search?keyword=%E9%B8%BF%E8%92%99%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E5%90%8E%E9%A2%91%E7%B9%81%E9%87%8D%E5%90%AF%E6%80%8E%E4%B9%88%E5%8A%9E&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "title": "iPhone 17系列手机明日胖东来开售",
+        "url": "https://so.toutiao.com/search?keyword=iPhone+17%E7%B3%BB%E5%88%97%E6%89%8B%E6%9C%BA%E6%98%8E%E6%97%A5%E8%83%96%E4%B8%9C%E6%9D%A5%E5%BC%80%E5%94%AE&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1758187483,
+        "view_count": 1303261,
+        "talk_count": 5593
+    },
+    {
+        "title": "算力新基建或成下一轮AI大机遇",
+        "url": "https://so.toutiao.com/search?keyword=%E7%AE%97%E5%8A%9B%E6%96%B0%E5%9F%BA%E5%BB%BA%E6%88%96%E6%88%90%E4%B8%8B%E4%B8%80%E8%BD%AEAI%E5%A4%A7%E6%9C%BA%E9%81%87&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "",
+        "extra": "",
+        "crawl_time": 1758187483,
+        "view_count": 338926,
+        "talk_count": 1454
+    },
+    {
+        "title": "动物园给动物治病有哪些挑战",
+        "url": "https://so.toutiao.com/search?keyword=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%BB%99%E5%8A%A8%E7%89%A9%E6%B2%BB%E7%97%85%E6%9C%89%E5%93%AA%E4%BA%9B%E6%8C%91%E6%88%98&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
         "flag": "",
         "flag_ext": "forum",
         "extra": "热议",
-        "crawl_time": 1758184207,
-        "view_count": 14381,
-        "talk_count": 61
+        "crawl_time": 1758187483,
+        "view_count": 40891,
+        "talk_count": 175
+    },
+    {
+        "title": "小米17系列正面迎战iPhone你怎么看",
+        "url": "https://so.toutiao.com/search?keyword=%E5%B0%8F%E7%B1%B317%E7%B3%BB%E5%88%97%E6%AD%A3%E9%9D%A2%E8%BF%8E%E6%88%98iPhone%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%8B&search_json=%7B%22source_aid%22%3A13%7D&source=hotboard_list",
+        "flag": "",
+        "flag_ext": "forum",
+        "extra": "热议",
+        "crawl_time": 1758187483,
+        "view_count": 2868,
+        "talk_count": 12
     }
 ]
